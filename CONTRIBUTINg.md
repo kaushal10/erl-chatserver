@@ -11,10 +11,11 @@ You are free to contribute to realtime-toastr via GitHub Pull Requests.
 
 1. [Fork](https://github.com/salman-bhai/erl-chatserver/fork) this repo.
 2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-4. Open a [Pull Request](https://github.com/salman-bhai/erl-chatserver/pulls) :D
-5. Wait for others to accept the request or provide insightful feedback to improve your contribution.
+3. Add your changes to the staging area: `git add .`
+4. Commit your changes: `git commit -am 'Add some feature'`
+5. Push to the branch: `git push origin my-new-feature`
+6. Open a [Pull Request](https://github.com/salman-bhai/erl-chatserver/pulls) :D
+7. Wait for others to accept the request or provide insightful feedback to improve your contribution.
 
 
 ## Be generous with comments
